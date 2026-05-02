@@ -4,7 +4,9 @@ This project is a mobile-friendly Task Management System that helps teams manage
 
 🚀 Features
 ✅ Backend (Google Sheets)
+
 Store task details:
+
 Task Name
 Task Type (Daily / Weekly / One-time)
 Assigned To
@@ -12,22 +14,33 @@ Planned Date
 Completion Date
 Status (Pending / Done)
 Weekly score tracking for missed or late tasks
+
+
 📱 Frontend (Web App)
+
 Mobile-friendly design
 Displays only tasks assigned to the logged-in user
 Shows:
 Recurring Tasks
 One-time Tasks
 "Mark as Done" updates task instantly in Google Sheets
+
+
 🤖 AI Integration (Claude API)
+
 Smart task suggestions
 Highlights pending or overdue tasks
 Improves productivity with AI insights
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: Google Sheets API
 AI: Claude API (Anthropic)
+
+
 ⚙️ How It Works
+
+
 Tasks are stored in Google Sheets
 Web app fetches and filters tasks by user and date
 User can view and update task status
